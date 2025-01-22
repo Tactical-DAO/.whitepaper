@@ -1,4 +1,4 @@
-![Tactical DAO Banner](/assets/tactical.png)
+![Tactical DAO Banner](/assets/tactical.png width="300")
 
 # Tactical DAO
 # About
