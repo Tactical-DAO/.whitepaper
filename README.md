@@ -1,4 +1,4 @@
-![Tactical DAO Banner](/assets/tactical.png width="300")
+<img src="/assets/tactical.png" width="300" alt="Tactical DAO Banner">
 
 # Tactical DAO
 # About
