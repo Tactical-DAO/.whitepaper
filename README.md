@@ -38,7 +38,7 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 - Total Supply: 2 Billion
 - Total Supply Minted at Launch: 1 Billion
 
-<br>
+
 
 
 #### Uniswap Liquidity Pool: 500M TACTICAL (50% at launch, 75% dilutted over time)
