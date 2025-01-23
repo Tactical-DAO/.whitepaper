@@ -83,12 +83,11 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 <br>
 <br>
 
-## Tactical DAO (TACTICAL) Token and Staking System
-
-A comprehensive DeFi system featuring dual staking pools with NFT-based governance capabilities.
 
 ## Contract Overview
 
+- A comprehensive DeFi system featuring dual staking pools with NFT-based governance capabilities.
+- 
 The system consists of four main contracts:
 1. TacticalToken (ERC20)
 2. FoundersNFT (ERC721)
