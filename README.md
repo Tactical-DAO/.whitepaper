@@ -8,6 +8,11 @@
 
 </div>
 
+## Table of Contents
+1. [Tokenomics](#about)
+2. [Tokenomics](#tokenomics)
+3. [Contract Overview](#contract-overview)
+4. [Testing](#testing)
 
 # About
 We are a decentralized autonomous organization (DAO) that empowers holders with governance rights to propose treasury investments while incentivizing participation through dual staking pools.
