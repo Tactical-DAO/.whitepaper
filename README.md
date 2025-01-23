@@ -29,12 +29,12 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 - Shows commitment to decentralized governance from day one
 - Size enables meaningful participation from various investor tiers
 
-#### Treasury Management: 300M TACTICAL (30% at launch, 22.5% dilutted over time)
+#### Treasury Management: 300M TACTICAL (30% at launch, 15% dilutted over time)
 
 - Provides substantial liquidity for initial investment operations
 
 
-#### Operations: 150M TACTICAL (15% at launch, 11.25% dilutted over time)
+#### Operations: 150M TACTICAL (15% at launch, 7.5% dilutted over time)
 
 - Dedicated to sustainable operational runway
 - Covers development, security audits, and platform maintenance
@@ -42,7 +42,7 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 - Provides buffer for market-making and liquidity management
 - Funds ongoing protocol improvements and upgrades
 
-#### Developer: 50M TACTICAL (5% at launch, 3.75% dilutted over time)
+#### Developer: 50M TACTICAL (5% at launch, 2.5% dilutted over time)
 
 - Conservative founder allocation shows commitment to community ownership
 - 3-year vesting period aligns with long-term success
