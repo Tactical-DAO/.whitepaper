@@ -19,11 +19,11 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 
 #### Uniswap Liquidity Pool (40%) - 400M tokens
 
-This forms the largest allocation to demonstrate clear alignment with community interests
-Provides substantial liquidity for initial investment operations
-Large community ownership helps prevent concentration of voting power
-Shows commitment to decentralized governance from day one
-Size enables meaningful participation from various investor tiers
+##### This forms the largest allocation to demonstrate clear alignment with community interests
+##### Provides substantial liquidity for initial investment operations
+##### Large community ownership helps prevent concentration of voting power
+##### Shows commitment to decentralized governance from day one
+##### Size enables meaningful participation from various investor tiers
 
 #### Governance/Participation Rights (25%) - 250M tokens
 
