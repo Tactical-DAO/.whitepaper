@@ -2,9 +2,11 @@
   <img src="/assets/tactical.png" width="300" alt="Tactical DAO Banner">
 </p>
 
+<div align="center">
+
 # Tactical DAO
-<br>
-<br>
+
+</div>
 
 
 # About
