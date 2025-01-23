@@ -297,13 +297,7 @@ struct Proposal {
    - Unstake tokens [in development]
    - Claim rewards [in development]
 
-4. **Common Test Cases**
-   - Try to stake with insufficient balance
-   - Submit proposal without minimum tokens
-   - Test all read functions
-   - Verify transaction success/failure handling
-
-5. **Debugging in Remix**
+4. **Debugging in Remix**
    - Use Remix's Debug button on failed transactions
    - Check transaction details in the Remix console
    - Verify event emissions
@@ -332,14 +326,10 @@ struct Proposal {
 
 1. **Additional Features**
    - Add voting functionality
-   - Implement token distribution
-   - Add proposal execution
-   - Enhance treasury management
+   - Add staking functionality
+   - Add proposal functionality
+   - Enhance website functionality
 
-2. **Production Deployment**
-   - Deploy to mainnet
-   - Set up monitoring
-   - Implement security measures
-   - Add transaction notifications
+
 
 
