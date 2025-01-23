@@ -103,8 +103,8 @@ contract TacticalToken is ERC20, Ownable
 Standard ERC20 implementation with maximum supply control.
 
 #### Constants
-- `MAX_SUPPLY`: 1,000,000,000 tokens (with 18 decimals)
-- `INITIAL_SUPPLY`: 500,000,000 tokens (with 18 decimals)
+- `MAX_SUPPLY`: 2,000,000,000 tokens (with 18 decimals)
+- `INITIAL_SUPPLY`: 1,000,000,000 tokens (with 18 decimals)
 
 #### Functions
 - `constructor()`: Initializes the token with name "Tactical DAO" and symbol "TACTICAL", mints initial supply
