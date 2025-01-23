@@ -9,7 +9,7 @@
 </div>
 
 ## Table of Contents
-1. [Tokenomics](#about)
+1. [About](#about)
 2. [Tokenomics](#tokenomics)
 3. [Contract Overview](#contract-overview)
 4. [Testing](#testing)
@@ -29,11 +29,7 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 <br>
 
 
-## Table of Contents
 
-1. [Tokenomics](#tokenomics)
-2. [Contract Overview](#contract-overview)
-3. [Testing](#testing)
 
 ## Tokenomics
 
@@ -41,6 +37,9 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 - Ticker: $TACTICAL
 - Total Supply: 2 Billion
 - Total Supply Minted at Launch: 1 Billion
+
+<br>
+
 
 #### Uniswap Liquidity Pool: 500M TACTICAL (50% at launch, 75% dilutted over time)
 
@@ -79,7 +78,10 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 - Protection against concentration of power or market manipulation
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 ## Tactical DAO (TACTICAL) Token and Staking System
 
