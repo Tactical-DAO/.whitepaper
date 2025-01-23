@@ -19,43 +19,43 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 
 #### Uniswap Liquidity Pool (40%) - 400M tokens
 
-##### This forms the largest allocation to demonstrate clear alignment with community interests
-##### Provides substantial liquidity for initial investment operations
-##### Large community ownership helps prevent concentration of voting power
-##### Shows commitment to decentralized governance from day one
-##### Size enables meaningful participation from various investor tiers
+- This forms the largest allocation to demonstrate clear alignment with community interests
+- Provides substantial liquidity for initial investment operations
+- Large community ownership helps prevent concentration of voting power
+- Shows commitment to decentralized governance from day one
+- Size enables meaningful participation from various investor tiers
 
 #### Governance/Participation Rights (25%) - 250M tokens
 
-Reserved for active participation incentives
-Can be used to reward valuable contributions to investment research/analysis
-Enables development of specialized investment committees
-Creates pathway for merit-based governance expansion
-Buffer for future strategic partnerships or expansion
+- Reserved for active participation incentives
+- Can be used to reward valuable contributions to investment research/analysis
+- Enables development of specialized investment committees
+- Creates pathway for merit-based governance expansion
+- Buffer for future strategic partnerships or expansion
 
 #### Treasury/Operations (20%) - 200M tokens
 
-Dedicated to sustainable operational runway
-Covers development, security audits, and platform maintenance
-Enables hiring of key personnel (analysts, risk managers, etc.)
-Provides buffer for market-making and liquidity management
-Funds ongoing protocol improvements and upgrades
+- Dedicated to sustainable operational runway
+- Covers development, security audits, and platform maintenance
+- Enables hiring of key personnel (analysts, risk managers, etc.)
+- Provides buffer for market-making and liquidity management
+- Funds ongoing protocol improvements and upgrades
 
 #### Developer (5%) - 150M tokens
 
-Conservative founder allocation shows commitment to community ownership
-3-year vesting period aligns with long-term success
-Size is sufficient to incentivize founding team without being excessive
-Comparable to traditional hedge fund management carry structures
-Gradual unlock prevents market pressure from founder selling
+- Conservative founder allocation shows commitment to community ownership
+- 3-year vesting period aligns with long-term success
+- Size is sufficient to incentivize founding team without being excessive
+- Comparable to traditional hedge fund management carry structures
+- Gradual unlock prevents market pressure from founder selling
 
-The overall structure prioritizes:
+#### Summary
 
-Long-term sustainability over short-term gains
-Community ownership while maintaining operational efficiency
-Clear separation between investment capital and operational funds
-Professional management incentives similar to traditional finance
-Protection against concentration of power or market manipulation
+- Long-term sustainability over short-term gains
+- Community ownership while maintaining operational efficiency
+- Clear separation between investment capital and operational funds
+- Professional management incentives similar to traditional finance
+- Protection against concentration of power or market manipulation
 
 
 
