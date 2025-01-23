@@ -32,8 +32,7 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 #### Treasury Management: 300M TACTICAL (30% at launch, 22.5% dilutted over time)
 
 - Provides substantial liquidity for initial investment operations
-- Large community ownership helps prevent concentration of voting power
-- Shows commitment to decentralized governance from day one
+
 
 #### Operations: 150M TACTICAL (15% at launch, 11.25% dilutted over time)
 
