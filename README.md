@@ -17,23 +17,23 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 
 ## Tokenomics
 
-#### Uniswap Liquidity Pool (40%) - 400M tokens
+- Total Supply (TACTICAL): 2 Billion
+- Total Supply Minted at Launch: 1 Billion
+
+#### Uniswap Liquidity Pool: 500M TACTICAL (50% at launch, 75% dilutted over time)
 
 - This forms the largest allocation to demonstrate clear alignment with community interests
-- Provides substantial liquidity for initial investment operations
 - Large community ownership helps prevent concentration of voting power
 - Shows commitment to decentralized governance from day one
 - Size enables meaningful participation from various investor tiers
 
-#### Governance/Participation Rights (25%) - 250M tokens
+#### Treasury Management: 300M TACTICAL (30% at launch, 22.5% dilutted over time)
 
-- Reserved for active participation incentives
-- Can be used to reward valuable contributions to investment research/analysis
-- Enables development of specialized investment committees
-- Creates pathway for merit-based governance expansion
-- Buffer for future strategic partnerships or expansion
+- Provides substantial liquidity for initial investment operations
+- Large community ownership helps prevent concentration of voting power
+- Shows commitment to decentralized governance from day one
 
-#### Treasury/Operations (20%) - 200M tokens
+#### Operations: 150M TACTICAL (15% at launch, 11.25% dilutted over time)
 
 - Dedicated to sustainable operational runway
 - Covers development, security audits, and platform maintenance
@@ -41,7 +41,7 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 - Provides buffer for market-making and liquidity management
 - Funds ongoing protocol improvements and upgrades
 
-#### Developer (5%) - 150M tokens
+#### Developer: 50M TACTICAL (5% at launch, 3.75% dilutted over time)
 
 - Conservative founder allocation shows commitment to community ownership
 - 3-year vesting period aligns with long-term success
