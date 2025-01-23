@@ -112,7 +112,7 @@ Core staking functionality with dual pool system.
 #### Constants
 - `REGULAR_APR`: 20% (2000 basis points)
 - `FOUNDER_APR`: 100% (10000 basis points)
-- `REGULAR_STAKE_PERIOD`: 365 days
+- `REGULAR_STAKE_PERIOD`: 30 days
 
 #### Structures
 ```solidity
