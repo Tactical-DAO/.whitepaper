@@ -20,9 +20,9 @@
 
 
 # About
-Tactical DAO is building the future of esports ownership, enabling community governance and shared success in professional Counter-Strike.
+Tactical DAO is building the future of esports ownership, enabling community governance and shared success in professional Counter-Strike.<br>
 Our vision is to establish the first successful community-owned professional Counter-Strike team, setting new standards for esports organization governance and ownership.
-
+<br><br><br><br><br><br>
 # Strategic Framework
 <br>
 ## Team Development
