@@ -10,7 +10,7 @@
 
 ## Table of Contents
 1. [About](#about)
-2. [Contract Overview](#contract-overview)
+2. [Contract Overview](#strategic-framework)
 
 
 <br>
