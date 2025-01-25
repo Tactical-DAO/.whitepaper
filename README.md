@@ -25,11 +25,13 @@ Our vision is to establish the first successful community-owned professional Cou
 <br><br><br><br><br><br>
 # Strategic Framework
 <br>
-## Team Development
+Team Development:<br>
 Acquiring and developing top-tier talent while implementing professional support infrastructure and training methodologies.<br>
-## Community Governance<br>
+<br>
+Community Governance:<br>
 Establishing robust voting mechanisms and transparent decision-making processes for key team operations and strategies.<br>
-## Financial Growth<br>
+<br>
+Financial Growth:<br>
 Creating sustainable revenue streams through tournament success, strategic partnerships, and community-driven initiatives.<br>
 
 
