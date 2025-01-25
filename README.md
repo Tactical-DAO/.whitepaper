@@ -10,7 +10,7 @@
 
 ## Table of Contents
 1. [About](#about)
-2. [Strategic Framework](#strategic-framework)
+2. [Mission Statement](#mission-statement)
 
 
 <br>
@@ -23,7 +23,7 @@
 Tactical DAO is building the future of esports ownership, enabling community governance and shared success in professional Counter-Strike.<br>
 Our vision is to establish the first successful community-owned professional Counter-Strike team, setting new standards for esports organization governance and ownership.
 <br><br><br><br><br><br>
-# Strategic Framework
+# Mission Statement
 <br>
 Team Development:<br>
 Acquiring and developing top-tier talent while implementing professional support infrastructure and training methodologies.<br>
