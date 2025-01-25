@@ -10,9 +10,8 @@
 
 ## Table of Contents
 1. [About](#about)
-2. [Tokenomics](#tokenomics)
-3. [Contract Overview](#contract-overview)
-4. [Testing](#testing)
+2. [Contract Overview](#contract-overview)
+
 
 <br>
 <br>
@@ -31,57 +30,7 @@ We are a decentralized autonomous organization (DAO) that empowers holders with 
 
 
 
-## Tokenomics
 
-- Token Name: Tactical DAO
-- Ticker: $TACTICAL
-- Total Supply: 2 Billion
-- Total Supply Minted at Launch: 1 Billion
-
-
-
-
-#### Uniswap Liquidity Pool: 500M TACTICAL (50% at launch, 75% dilutted over time)
-
-- This forms the largest allocation to demonstrate clear alignment with community interests
-- Large community ownership helps prevent concentration of voting power
-- Shows commitment to decentralized governance from day one
-- Size enables meaningful participation from various investor tiers
-
-#### Treasury Management: 300M TACTICAL (30% at launch, 15% dilutted over time)
-
-- Provides substantial liquidity for initial investment operations
-
-
-#### Operations: 150M TACTICAL (15% at launch, 7.5% dilutted over time)
-
-- Dedicated to sustainable operational runway
-- Covers development, security audits, and platform maintenance
-- Enables hiring of key personnel (analysts, risk managers, etc.)
-- Provides buffer for market-making and liquidity management
-- Funds ongoing protocol improvements and upgrades
-
-#### Developer: 50M TACTICAL (5% at launch, 2.5% dilutted over time)
-
-- Conservative founder allocation shows commitment to community ownership
-- 3-year vesting period aligns with long-term success
-- Size is sufficient to incentivize founding team without being excessive
-- Comparable to traditional hedge fund management carry structures
-- Gradual unlock prevents market pressure from founder selling
-
-#### Summary
-
-- Long-term sustainability over short-term gains
-- Community ownership while maintaining operational efficiency
-- Clear separation between investment capital and operational funds
-- Professional management incentives similar to traditional finance
-- Protection against concentration of power or market manipulation
-
-
-<br>
-<br>
-<br>
-<br>
 
 
 ## Contract Overview
@@ -267,60 +216,6 @@ struct Proposal {
 - Rewards can be claimed or reinvested at any time
 - Separate reward tracking for each pool
 
-## Testing
-
-1. **Test Environment Setup**
-   - Get test ETH from a Sepolia faucet
-   - Get test tokens (if using existing ERC20)
-   - Connect MetaMask to Sepolia testnet
-
-2. **Contract Testing in Remix**
-   - Use the Remix interface to test each function
-   - Click on deployed contract functions to test them
-   - Monitor transactions in MetaMask
-   - Check function results in Remix console
-
-3. **Frontend Testing Steps**
-   - Install Python 3, make sure install to path is enabled.
-   - cd C:\Users\lbrya\Documents\Tactical DAO\root
-   - python -m http.server 8000
-   - http://localhost:8000/index.html
-
-   
-   Test the following flows:
-   - Connect wallet
-   - Fetch live coin prices
-   - Fetch user wallet balances
-   - Fetch treasury wallet balances
-   - Submit proposal [in development]
-   - Stake tokens [in development]
-   - Unstake tokens [in development]
-   - Claim rewards [in development]
-
-4. **Debugging in Remix**
-   - Use Remix's Debug button on failed transactions
-   - Check transaction details in the Remix console
-   - Verify event emissions
-   - Test contract state changes
-
-## Troubleshooting Common Issues
-
-1. **MetaMask Connection**
-   - Ensure MetaMask is on the correct network
-   - Reset MetaMask account if transactions are stuck
-   - Clear transaction history if needed
-
-2. **Contract Interaction**
-   - Verify contract address is correct
-   - Check ABI matches deployed contract
-   - Ensure sufficient gas for transactions
-   - Verify input parameters match function requirements
-
-3. **Frontend Issues**
-   - Check browser console for errors
-   - Verify Web3 provider connection
-   - Confirm contract instance creation
-   - Validate transaction parameter formatting
 
 ## Next Steps
 
