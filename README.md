@@ -31,9 +31,9 @@ Team Development:<br>
 Acquiring and developing top-tier talent while implementing professional support infrastructure and training methodologies.<br>
 <br>
 Community Governance:<br>
-Establishing robust voting mechanisms and transparent decision-making processes for key team operations and strategies.<br>
+Establishing robust voting mechanisms and transparent decision-making processes for key team operations and decisions.<br>
 <br>
-Financial Growth:<br>
+Treasury Growth:<br>
 Creating sustainable revenue streams through tournament success, strategic partnerships, and community-driven initiatives.<br>
 
 
