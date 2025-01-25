@@ -10,7 +10,7 @@
 
 ## Table of Contents
 1. [About](#about)
-2. [Contract Overview](#strategic-framework)
+2. [Strategic Framework](#strategic-framework)
 
 
 <br>
@@ -26,11 +26,11 @@ Our vision is to establish the first successful community-owned professional Cou
 # Strategic Framework
 <br>
 ## Team Development
-Acquiring and developing top-tier talent while implementing professional support infrastructure and training methodologies.
-## Community Governance
-Establishing robust voting mechanisms and transparent decision-making processes for key team operations and strategies.
-## Financial Growth
-Creating sustainable revenue streams through tournament success, strategic partnerships, and community-driven initiatives.
+Acquiring and developing top-tier talent while implementing professional support infrastructure and training methodologies.<br>
+## Community Governance<br>
+Establishing robust voting mechanisms and transparent decision-making processes for key team operations and strategies.<br>
+## Financial Growth<br>
+Creating sustainable revenue streams through tournament success, strategic partnerships, and community-driven initiatives.<br>
 
 
 
