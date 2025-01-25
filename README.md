@@ -17,7 +17,10 @@
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 
 # About
 Tactical DAO is building the future of esports ownership, enabling community governance and shared success in professional Counter-Strike.<br>
