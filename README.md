@@ -35,7 +35,7 @@ Tactical DAO's tokenomics are designed to promote sustainability, fairness, and 
 | **Treasury**         | 40%            |
 | **Operations**       | 10%            |
 | **Burned**           | 5%             |
-| **Airdrop**          | 1%             |
+| **Airdrop**          | 10%             |
 | **Public Uniswap Pool** | 35%            |
 
 **Key Features:**
